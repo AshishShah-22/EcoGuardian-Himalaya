@@ -1,6 +1,5 @@
 frontend/.dart_tool/
 frontend/lib/.dart_tool/
-frontend/build/
 frontend/.idea/
 frontend/venv/
 frontend/.flutter-plugins-dependencies
@@ -9,8 +8,8 @@ frontend/android/.gradle/
 frontend/android/local.properties
 frontend/android/*.iml
 frontend/*.iml
-frontend/backend/**/__pycache__/
-frontend/backend/**/*.pyc
+frontend/backend/
+frontend/build/
 frontend/ios/Flutter/ephemeral/
 frontend/ios/Flutter/flutter_export_environment.sh
 frontend/macos/Flutter/ephemeral/
